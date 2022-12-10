@@ -6,7 +6,6 @@ import {
     Patch, 
     Param, 
     Delete, 
-    NotFoundException, 
     ParseIntPipe 
 } from '@nestjs/common';
 import { ArticlesService } from './articles.service';
